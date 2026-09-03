@@ -16,7 +16,6 @@ server:
       utc: false
   database:
     path: "filebrowser.sqlite"
-    migrateFrom: "database.db.old"
   sources:
     - path: "__DATA_DIR__"
       name: "backend"
