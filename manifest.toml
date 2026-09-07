@@ -7,7 +7,7 @@ name = "FileBrowser Quantum"
 description.en = "Web File Browser"
 description.fr = "Navigateur de fichiers Web"
 
-version = "2.0.5starship init fish | source-beta~ynh1"
+version = "2.0.5~ynh1"
 
 maintainers = ["eric_G"]
 
