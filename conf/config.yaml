@@ -299,7 +299,7 @@ http:
   socket: "" # socket to listen on - eg. /var/run/filebrowser.sock
   tlsKey: "" # path to TLS key
   tlsCert: "" # path to TLS cert
-  port: 80 # port to listen on
+  port: "__PORT__" # port to listen on
   listen: "" # address to listen on (default: 0.0.0.0)
   baseURL: "/" # base URL for the server, the subpath that the server is running on.
   externalUrl: "" # used by share links if set (eg. http://mydomain.com)
